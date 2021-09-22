@@ -5,9 +5,9 @@ def presenter(string) -> object:
     return st
 
 def string_multipler(st):
-st = st*2
-return st
+    st = st*2
+    return st
 
 def string_multipler(st):
-st = st*3
-return st + st
+    st = st*3
+    return st + st
