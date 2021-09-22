@@ -1,3 +1,3 @@
-from string_reversal import string
+from test import presenter
 
-print(string("MSAI"))
+print(presenter('alex'))
